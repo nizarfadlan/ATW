@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://nidev.me/fesco/assets/images/logo.png" width="200"/>
+<img src="https://nizar.tech/favicon/logo.png" width="100"/>
 </p>
 <p align="center">
 <a href="#"><img title="AWT" src="https://img.shields.io/badge/AWT-blueviolet?style=for-the-badge"></a>
