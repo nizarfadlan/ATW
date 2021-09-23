@@ -2,7 +2,7 @@
 <img src="https://nizar.tech/favicon/logo.png" width="100"/>
 </p>
 <p align="center">
-<a href="#"><img title="AWT" src="https://img.shields.io/badge/AWT-blueviolet?style=for-the-badge"></a>
+<a href="#"><img title="ATW" src="https://img.shields.io/badge/AWT-blueviolet?style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/nizariyf"><img title="Author" src="https://img.shields.io/badge/AUTHOR-NIZAR-orange.svg?style=for-the-badge&logo=github"></a>
