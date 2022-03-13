@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://nizar.tech/favicon/logo.png" width="100"/>
+<img src="https://nizar.nfitec.com/favicon/logo.png" width="100"/>
 </p>
 <p align="center">
 <a href="#"><img title="ATW" src="https://img.shields.io/badge/AWT-blueviolet?style=for-the-badge"></a>
